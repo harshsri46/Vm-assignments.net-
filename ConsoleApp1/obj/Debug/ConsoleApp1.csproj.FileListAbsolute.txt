@@ -1,0 +1,7 @@
+C:\Wipro_harsh\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Wipro_harsh\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Wipro_harsh\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Wipro_harsh\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Wipro_harsh\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Wipro_harsh\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Wipro_harsh\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

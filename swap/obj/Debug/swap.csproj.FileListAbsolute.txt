@@ -1,0 +1,7 @@
+C:\Wipro_harsh\swap\bin\Debug\swap.exe.config
+C:\Wipro_harsh\swap\bin\Debug\swap.exe
+C:\Wipro_harsh\swap\bin\Debug\swap.pdb
+C:\Wipro_harsh\swap\obj\Debug\swap.csproj.AssemblyReference.cache
+C:\Wipro_harsh\swap\obj\Debug\swap.csproj.CoreCompileInputs.cache
+C:\Wipro_harsh\swap\obj\Debug\swap.exe
+C:\Wipro_harsh\swap\obj\Debug\swap.pdb

@@ -1,0 +1,7 @@
+C:\Wipro_harsh\Hospital_App\bin\Debug\Hospital_App.exe.config
+C:\Wipro_harsh\Hospital_App\bin\Debug\Hospital_App.exe
+C:\Wipro_harsh\Hospital_App\bin\Debug\Hospital_App.pdb
+C:\Wipro_harsh\Hospital_App\obj\Debug\Hospital_App.csproj.AssemblyReference.cache
+C:\Wipro_harsh\Hospital_App\obj\Debug\Hospital_App.csproj.CoreCompileInputs.cache
+C:\Wipro_harsh\Hospital_App\obj\Debug\Hospital_App.exe
+C:\Wipro_harsh\Hospital_App\obj\Debug\Hospital_App.pdb

@@ -1,0 +1,7 @@
+C:\Wipro_harsh\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\Wipro_harsh\BubbleSort\bin\Debug\BubbleSort.exe
+C:\Wipro_harsh\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\Wipro_harsh\BubbleSort\obj\Debug\BubbleSort.csproj.AssemblyReference.cache
+C:\Wipro_harsh\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Wipro_harsh\BubbleSort\obj\Debug\BubbleSort.exe
+C:\Wipro_harsh\BubbleSort\obj\Debug\BubbleSort.pdb

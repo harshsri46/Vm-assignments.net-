@@ -1,0 +1,16 @@
+C:\Wipro_harsh\MigrationTask\bin\Debug\MigrationTask.exe.config
+C:\Wipro_harsh\MigrationTask\bin\Debug\MigrationTask.exe
+C:\Wipro_harsh\MigrationTask\bin\Debug\MigrationTask.pdb
+C:\Wipro_harsh\MigrationTask\bin\Debug\EntityFramework.dll
+C:\Wipro_harsh\MigrationTask\bin\Debug\EntityFramework.SqlServer.dll
+C:\Wipro_harsh\MigrationTask\bin\Debug\EntityFramework.xml
+C:\Wipro_harsh\MigrationTask\bin\Debug\EntityFramework.SqlServer.xml
+C:\Wipro_harsh\MigrationTask\obj\Debug\MigrationTask.csproj.AssemblyReference.cache
+C:\Wipro_harsh\MigrationTask\obj\Debug\MigrationTask.csproj.CoreCompileInputs.cache
+C:\Wipro_harsh\MigrationTask\obj\Debug\Migratio.3DD83D60.Up2Date
+C:\Wipro_harsh\MigrationTask\obj\Debug\MigrationTask.exe
+C:\Wipro_harsh\MigrationTask\obj\Debug\MigrationTask.pdb
+C:\Wipro_harsh\MigrationTask\obj\Debug\MigrationTask.Migrations.InitialCreate.resources
+C:\Wipro_harsh\MigrationTask\obj\Debug\MigrationTask.csproj.GenerateResource.cache
+C:\Wipro_harsh\MigrationTask\obj\Debug\MigrationTask.Migrations.add_D_block_Rename_CreationDate.resources
+C:\Wipro_harsh\MigrationTask\obj\Debug\MigrationTask.Migrations.RenameColumn.resources

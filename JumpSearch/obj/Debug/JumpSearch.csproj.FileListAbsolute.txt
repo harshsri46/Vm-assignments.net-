@@ -1,0 +1,7 @@
+C:\Wipro_harsh\JumpSearch\bin\Debug\JumpSearch.exe.config
+C:\Wipro_harsh\JumpSearch\bin\Debug\JumpSearch.exe
+C:\Wipro_harsh\JumpSearch\bin\Debug\JumpSearch.pdb
+C:\Wipro_harsh\JumpSearch\obj\Debug\JumpSearch.csproj.AssemblyReference.cache
+C:\Wipro_harsh\JumpSearch\obj\Debug\JumpSearch.csproj.CoreCompileInputs.cache
+C:\Wipro_harsh\JumpSearch\obj\Debug\JumpSearch.exe
+C:\Wipro_harsh\JumpSearch\obj\Debug\JumpSearch.pdb

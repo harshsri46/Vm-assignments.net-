@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\CustomStack\bin\Debug\CustomStack.exe.config
+C:\Users\Admin\source\repos\CustomStack\bin\Debug\CustomStack.exe
+C:\Users\Admin\source\repos\CustomStack\bin\Debug\CustomStack.pdb
+C:\Users\Admin\source\repos\CustomStack\obj\Debug\CustomStack.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CustomStack\obj\Debug\CustomStack.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CustomStack\obj\Debug\CustomStack.exe
+C:\Users\Admin\source\repos\CustomStack\obj\Debug\CustomStack.pdb
+C:\Wipro_harsh\c-code-files\CustomStack\bin\Debug\CustomStack.exe.config
+C:\Wipro_harsh\c-code-files\CustomStack\bin\Debug\CustomStack.exe
+C:\Wipro_harsh\c-code-files\CustomStack\bin\Debug\CustomStack.pdb
+C:\Wipro_harsh\c-code-files\CustomStack\obj\Debug\CustomStack.csproj.AssemblyReference.cache
+C:\Wipro_harsh\c-code-files\CustomStack\obj\Debug\CustomStack.csproj.CoreCompileInputs.cache
+C:\Wipro_harsh\c-code-files\CustomStack\obj\Debug\CustomStack.exe
+C:\Wipro_harsh\c-code-files\CustomStack\obj\Debug\CustomStack.pdb

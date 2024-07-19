@@ -1,0 +1,7 @@
+C:\Wipro_harsh\simpleStack\bin\Debug\simpleStack.exe.config
+C:\Wipro_harsh\simpleStack\bin\Debug\simpleStack.exe
+C:\Wipro_harsh\simpleStack\bin\Debug\simpleStack.pdb
+C:\Wipro_harsh\simpleStack\obj\Debug\simpleStack.csproj.AssemblyReference.cache
+C:\Wipro_harsh\simpleStack\obj\Debug\simpleStack.csproj.CoreCompileInputs.cache
+C:\Wipro_harsh\simpleStack\obj\Debug\simpleStack.exe
+C:\Wipro_harsh\simpleStack\obj\Debug\simpleStack.pdb

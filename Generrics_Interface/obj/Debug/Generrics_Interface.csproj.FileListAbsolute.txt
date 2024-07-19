@@ -1,0 +1,7 @@
+C:\Wipro_harsh\Generrics_Interface\obj\Debug\Generrics_Interface.csproj.AssemblyReference.cache
+C:\Wipro_harsh\Generrics_Interface\obj\Debug\Generrics_Interface.csproj.CoreCompileInputs.cache
+C:\Wipro_harsh\Generrics_Interface\bin\Debug\Generrics_Interface.exe.config
+C:\Wipro_harsh\Generrics_Interface\bin\Debug\Generrics_Interface.exe
+C:\Wipro_harsh\Generrics_Interface\bin\Debug\Generrics_Interface.pdb
+C:\Wipro_harsh\Generrics_Interface\obj\Debug\Generrics_Interface.exe
+C:\Wipro_harsh\Generrics_Interface\obj\Debug\Generrics_Interface.pdb

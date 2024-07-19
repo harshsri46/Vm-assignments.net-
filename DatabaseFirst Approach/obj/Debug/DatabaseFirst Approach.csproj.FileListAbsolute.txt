@@ -1,0 +1,12 @@
+C:\Wipro_harsh\DatabaseFirst Approach\bin\Debug\DatabaseFirst Approach.exe.config
+C:\Wipro_harsh\DatabaseFirst Approach\bin\Debug\DatabaseFirst Approach.exe
+C:\Wipro_harsh\DatabaseFirst Approach\bin\Debug\DatabaseFirst Approach.pdb
+C:\Wipro_harsh\DatabaseFirst Approach\bin\Debug\EntityFramework.dll
+C:\Wipro_harsh\DatabaseFirst Approach\bin\Debug\EntityFramework.SqlServer.dll
+C:\Wipro_harsh\DatabaseFirst Approach\bin\Debug\EntityFramework.xml
+C:\Wipro_harsh\DatabaseFirst Approach\bin\Debug\EntityFramework.SqlServer.xml
+C:\Wipro_harsh\DatabaseFirst Approach\obj\Debug\DatabaseFirst Approach.csproj.AssemblyReference.cache
+C:\Wipro_harsh\DatabaseFirst Approach\obj\Debug\DatabaseFirst Approach.csproj.CoreCompileInputs.cache
+C:\Wipro_harsh\DatabaseFirst Approach\obj\Debug\Database.5E4F1757.Up2Date
+C:\Wipro_harsh\DatabaseFirst Approach\obj\Debug\DatabaseFirst Approach.exe
+C:\Wipro_harsh\DatabaseFirst Approach\obj\Debug\DatabaseFirst Approach.pdb

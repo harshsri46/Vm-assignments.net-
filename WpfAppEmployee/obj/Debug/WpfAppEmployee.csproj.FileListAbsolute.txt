@@ -1,0 +1,15 @@
+C:\Wipro_harsh\WpfAppEmployee\obj\Debug\WpfAppEmployee.csproj.AssemblyReference.cache
+C:\Wipro_harsh\WpfAppEmployee\obj\Debug\MainWindow.g.cs
+C:\Wipro_harsh\WpfAppEmployee\obj\Debug\App.g.cs
+C:\Wipro_harsh\WpfAppEmployee\obj\Debug\WpfAppEmployee_MarkupCompile.cache
+C:\Wipro_harsh\WpfAppEmployee\obj\Debug\WpfAppEmployee_MarkupCompile.lref
+C:\Wipro_harsh\WpfAppEmployee\bin\Debug\WpfAppEmployee.exe.config
+C:\Wipro_harsh\WpfAppEmployee\bin\Debug\WpfAppEmployee.exe
+C:\Wipro_harsh\WpfAppEmployee\bin\Debug\WpfAppEmployee.pdb
+C:\Wipro_harsh\WpfAppEmployee\obj\Debug\MainWindow.baml
+C:\Wipro_harsh\WpfAppEmployee\obj\Debug\WpfAppEmployee.g.resources
+C:\Wipro_harsh\WpfAppEmployee\obj\Debug\WpfAppEmployee.Properties.Resources.resources
+C:\Wipro_harsh\WpfAppEmployee\obj\Debug\WpfAppEmployee.csproj.GenerateResource.cache
+C:\Wipro_harsh\WpfAppEmployee\obj\Debug\WpfAppEmployee.csproj.CoreCompileInputs.cache
+C:\Wipro_harsh\WpfAppEmployee\obj\Debug\WpfAppEmployee.exe
+C:\Wipro_harsh\WpfAppEmployee\obj\Debug\WpfAppEmployee.pdb

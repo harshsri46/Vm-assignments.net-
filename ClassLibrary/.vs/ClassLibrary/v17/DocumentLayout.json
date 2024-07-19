@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Wipro_harsh\\ClassLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7B8DF6-B1CB-4430-9DA9-F1A79042882B}|..\\CustomTesting\\CustomTesting.csproj|c:\\wipro_harsh\\customtesting\\testarithmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF894060-E9A4-4CE4-9188-52E943C8BDB8}|ClassLibrary.csproj|c:\\wipro_harsh\\classlibrary\\arithmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF894060-E9A4-4CE4-9188-52E943C8BDB8}|ClassLibrary.csproj|solutionrelative:arithmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestArithmetic.cs",
+              "DocumentMoniker": "C:\\Wipro_harsh\\CustomTesting\\TestArithmetic.cs",
+              "RelativeDocumentMoniker": "..\\CustomTesting\\TestArithmetic.cs",
+              "ToolTip": "C:\\Wipro_harsh\\CustomTesting\\TestArithmetic.cs",
+              "RelativeToolTip": "..\\CustomTesting\\TestArithmetic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T12:00:08.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Arithmetic.cs",
+              "DocumentMoniker": "C:\\Wipro_harsh\\ClassLibrary\\Arithmetic.cs",
+              "RelativeDocumentMoniker": "Arithmetic.cs",
+              "ToolTip": "C:\\Wipro_harsh\\ClassLibrary\\Arithmetic.cs",
+              "RelativeToolTip": "Arithmetic.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAiwC4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T09:52:08.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

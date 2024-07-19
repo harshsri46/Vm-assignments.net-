@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\AccountTransfer\obj\Debug\AccountTransfer.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\AccountTransfer\obj\Debug\AccountTransfer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AccountTransfer\bin\Debug\AccountTransfer.exe.config
+C:\Users\Admin\source\repos\AccountTransfer\bin\Debug\AccountTransfer.exe
+C:\Users\Admin\source\repos\AccountTransfer\bin\Debug\AccountTransfer.pdb
+C:\Users\Admin\source\repos\AccountTransfer\obj\Debug\AccountTransfer.exe
+C:\Users\Admin\source\repos\AccountTransfer\obj\Debug\AccountTransfer.pdb

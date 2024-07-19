@@ -1,0 +1,6 @@
+C:\Wipro_harsh\EmployeeManage\bin\Debug\EmployeeManage.dll
+C:\Wipro_harsh\EmployeeManage\bin\Debug\EmployeeManage.pdb
+C:\Wipro_harsh\EmployeeManage\obj\Debug\EmployeeManage.csproj.AssemblyReference.cache
+C:\Wipro_harsh\EmployeeManage\obj\Debug\EmployeeManage.csproj.CoreCompileInputs.cache
+C:\Wipro_harsh\EmployeeManage\obj\Debug\EmployeeManage.dll
+C:\Wipro_harsh\EmployeeManage\obj\Debug\EmployeeManage.pdb

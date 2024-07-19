@@ -1,0 +1,12 @@
+C:\Wipro_harsh\CodeFirst Approach\bin\Debug\CodeFirst Approach.exe.config
+C:\Wipro_harsh\CodeFirst Approach\bin\Debug\CodeFirst Approach.exe
+C:\Wipro_harsh\CodeFirst Approach\bin\Debug\CodeFirst Approach.pdb
+C:\Wipro_harsh\CodeFirst Approach\bin\Debug\EntityFramework.dll
+C:\Wipro_harsh\CodeFirst Approach\bin\Debug\EntityFramework.SqlServer.dll
+C:\Wipro_harsh\CodeFirst Approach\bin\Debug\EntityFramework.xml
+C:\Wipro_harsh\CodeFirst Approach\bin\Debug\EntityFramework.SqlServer.xml
+C:\Wipro_harsh\CodeFirst Approach\obj\Debug\CodeFirst Approach.csproj.AssemblyReference.cache
+C:\Wipro_harsh\CodeFirst Approach\obj\Debug\CodeFirst Approach.csproj.CoreCompileInputs.cache
+C:\Wipro_harsh\CodeFirst Approach\obj\Debug\CodeFirs.4BC29188.Up2Date
+C:\Wipro_harsh\CodeFirst Approach\obj\Debug\CodeFirst Approach.exe
+C:\Wipro_harsh\CodeFirst Approach\obj\Debug\CodeFirst Approach.pdb

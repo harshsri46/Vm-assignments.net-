@@ -1,0 +1,7 @@
+C:\Wipro_harsh\DatabaseHandling\bin\Debug\DatabaseHandling.exe.config
+C:\Wipro_harsh\DatabaseHandling\bin\Debug\DatabaseHandling.exe
+C:\Wipro_harsh\DatabaseHandling\bin\Debug\DatabaseHandling.pdb
+C:\Wipro_harsh\DatabaseHandling\obj\Debug\DatabaseHandling.csproj.AssemblyReference.cache
+C:\Wipro_harsh\DatabaseHandling\obj\Debug\DatabaseHandling.csproj.CoreCompileInputs.cache
+C:\Wipro_harsh\DatabaseHandling\obj\Debug\DatabaseHandling.exe
+C:\Wipro_harsh\DatabaseHandling\obj\Debug\DatabaseHandling.pdb

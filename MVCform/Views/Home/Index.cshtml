@@ -1,0 +1,61 @@
+﻿<!-- Views/User/Index.cshtml -->
+@model MVCforms.Models.UserModel
+
+@{
+    ViewData["Title"] = "User Form";
+}
+
+<h2>User Form</h2>
+
+<form asp-action="Index" method="post">
+    <div>
+        <label for="FirstName">First Name</label>
+        <input asp-for="FirstName" />
+        <span asp-validation-for="FirstName" style="color:red"></span>
+    </div>
+    <div>
+        <label for="MiddleName">Middle Name</label>
+        <input asp-for="MiddleName" />
+    </div>
+    <div>
+        <label for="LastName">Last Name</label>
+        <input asp-for="LastName" />
+        <span asp-validation-for="LastName" style="color:red"></span>
+    </div>
+    <div>
+        <label for="Age">Age</label>
+        <input asp-for="Age" />
+        <span asp-validation-for="Age" style="color:red"></span>
+    </div>
+    <div>
+        <label for="DateOfBirth">Date Of Birth</label>
+        <input asp-for="DateOfBirth" type="date" />
+        <span asp-validation-for="DateOfBirth" style="color:red"></span>
+    </div>
+    <div>
+        <label for="EmailId">Email Id</label>
+        <input asp-for="EmailId" />
+        <span asp-validation-for="EmailId" style="color:red"></span>
+    </div>
+    <div>
+        <label for="Country">Country</label>
+        <select asp-for="Country">
+            <option value="USA">USA</option>
+            <option value="Canada">Canada</option>
+            <!-- Add more countries as needed -->
+        </select>
+    </div>
+    <div>
+        <label>Gender</label>
+        <input asp-for="Gender" type="radio" value="Male" /> Male
+        <input asp-for="Gender" type="radio" value="Female" /> Female
+        <span asp-validation-for="Gender" style="color:red"></span>
+    </div>
+    <div>
+        <input type="submit" value="Submit" />
+    </div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

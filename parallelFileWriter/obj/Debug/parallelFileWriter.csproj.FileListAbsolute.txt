@@ -1,0 +1,7 @@
+C:\Wipro_harsh\parallelFileWriter\bin\Debug\parallelFileWriter.exe.config
+C:\Wipro_harsh\parallelFileWriter\bin\Debug\parallelFileWriter.exe
+C:\Wipro_harsh\parallelFileWriter\bin\Debug\parallelFileWriter.pdb
+C:\Wipro_harsh\parallelFileWriter\obj\Debug\parallelFileWriter.csproj.AssemblyReference.cache
+C:\Wipro_harsh\parallelFileWriter\obj\Debug\parallelFileWriter.csproj.CoreCompileInputs.cache
+C:\Wipro_harsh\parallelFileWriter\obj\Debug\parallelFileWriter.exe
+C:\Wipro_harsh\parallelFileWriter\obj\Debug\parallelFileWriter.pdb

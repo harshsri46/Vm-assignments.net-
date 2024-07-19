@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Wipro_harsh\\c-code-files\\oopsConcept\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06DC9BC8-833F-490C-86FF-8352A147C6A7}|oopsConcept.csproj|c:\\wipro_harsh\\c-code-files\\oopsconcept\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DC9BC8-833F-490C-86FF-8352A147C6A7}|oopsConcept.csproj|solutionrelative:manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DC9BC8-833F-490C-86FF-8352A147C6A7}|oopsConcept.csproj|C:\\Wipro_harsh\\c-code-files\\oopsConcept\\deliveryparnter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DC9BC8-833F-490C-86FF-8352A147C6A7}|oopsConcept.csproj|solutionrelative:deliveryparnter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DC9BC8-833F-490C-86FF-8352A147C6A7}|oopsConcept.csproj|C:\\Wipro_harsh\\c-code-files\\oopsConcept\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DC9BC8-833F-490C-86FF-8352A147C6A7}|oopsConcept.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06DC9BC8-833F-490C-86FF-8352A147C6A7}|oopsConcept.csproj|C:\\Wipro_harsh\\c-code-files\\oopsConcept\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06DC9BC8-833F-490C-86FF-8352A147C6A7}|oopsConcept.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Wipro_harsh\\c-code-files\\oopsConcept\\Manager.cs",
+              "RelativeDocumentMoniker": "Manager.cs",
+              "ToolTip": "C:\\Wipro_harsh\\c-code-files\\oopsConcept\\Manager.cs",
+              "RelativeToolTip": "Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T10:23:18.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeliveryParnter.cs",
+              "DocumentMoniker": "C:\\Wipro_harsh\\c-code-files\\oopsConcept\\DeliveryParnter.cs",
+              "RelativeDocumentMoniker": "DeliveryParnter.cs",
+              "ToolTip": "C:\\Wipro_harsh\\c-code-files\\oopsConcept\\DeliveryParnter.cs",
+              "RelativeToolTip": "DeliveryParnter.cs",
+              "ViewState": "AQIAABUAAAAgMzMzMzMwwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T10:57:34.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Wipro_harsh\\c-code-files\\oopsConcept\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Wipro_harsh\\c-code-files\\oopsConcept\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T09:27:06.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro_harsh\\c-code-files\\oopsConcept\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Wipro_harsh\\c-code-files\\oopsConcept\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T09:25:23.975Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

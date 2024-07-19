@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\oopsConcept\bin\Debug\oopsConcept.exe.config
+C:\Users\Admin\source\repos\oopsConcept\bin\Debug\oopsConcept.exe
+C:\Users\Admin\source\repos\oopsConcept\bin\Debug\oopsConcept.pdb
+C:\Users\Admin\source\repos\oopsConcept\obj\Debug\oopsConcept.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\oopsConcept\obj\Debug\oopsConcept.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\oopsConcept\obj\Debug\oopsConcept.exe
+C:\Users\Admin\source\repos\oopsConcept\obj\Debug\oopsConcept.pdb
+C:\Wipro_harsh\c-code-files\oopsConcept\bin\Debug\oopsConcept.exe.config
+C:\Wipro_harsh\c-code-files\oopsConcept\bin\Debug\oopsConcept.exe
+C:\Wipro_harsh\c-code-files\oopsConcept\bin\Debug\oopsConcept.pdb
+C:\Wipro_harsh\c-code-files\oopsConcept\obj\Debug\oopsConcept.csproj.AssemblyReference.cache
+C:\Wipro_harsh\c-code-files\oopsConcept\obj\Debug\oopsConcept.csproj.CoreCompileInputs.cache
+C:\Wipro_harsh\c-code-files\oopsConcept\obj\Debug\oopsConcept.exe
+C:\Wipro_harsh\c-code-files\oopsConcept\obj\Debug\oopsConcept.pdb

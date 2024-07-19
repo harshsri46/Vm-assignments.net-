@@ -1,0 +1,7 @@
+C:\Wipro_harsh\MaxProfit\bin\Debug\MaxProfit.exe.config
+C:\Wipro_harsh\MaxProfit\bin\Debug\MaxProfit.exe
+C:\Wipro_harsh\MaxProfit\bin\Debug\MaxProfit.pdb
+C:\Wipro_harsh\MaxProfit\obj\Debug\MaxProfit.csproj.AssemblyReference.cache
+C:\Wipro_harsh\MaxProfit\obj\Debug\MaxProfit.csproj.CoreCompileInputs.cache
+C:\Wipro_harsh\MaxProfit\obj\Debug\MaxProfit.exe
+C:\Wipro_harsh\MaxProfit\obj\Debug\MaxProfit.pdb

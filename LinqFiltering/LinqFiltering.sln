@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqFiltering", "LinqFiltering.csproj", "{E53F1BF9-DCDA-4A3B-A139-14D33684EBFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E53F1BF9-DCDA-4A3B-A139-14D33684EBFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E53F1BF9-DCDA-4A3B-A139-14D33684EBFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E53F1BF9-DCDA-4A3B-A139-14D33684EBFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E53F1BF9-DCDA-4A3B-A139-14D33684EBFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {807D8182-29A6-4E61-A851-3DBDCAB7DCAE}
+	EndGlobalSection
+EndGlobal

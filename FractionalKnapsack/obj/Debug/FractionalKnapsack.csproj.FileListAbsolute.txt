@@ -1,0 +1,2 @@
+C:\Wipro_harsh\FractionalKnapsack\obj\Debug\FractionalKnapsack.csproj.AssemblyReference.cache
+C:\Wipro_harsh\FractionalKnapsack\obj\Debug\FractionalKnapsack.csproj.CoreCompileInputs.cache

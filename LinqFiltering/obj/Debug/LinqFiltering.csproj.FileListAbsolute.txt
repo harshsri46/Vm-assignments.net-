@@ -1,0 +1,7 @@
+C:\Wipro_harsh\LinqFiltering\bin\Debug\LinqFiltering.exe.config
+C:\Wipro_harsh\LinqFiltering\bin\Debug\LinqFiltering.exe
+C:\Wipro_harsh\LinqFiltering\bin\Debug\LinqFiltering.pdb
+C:\Wipro_harsh\LinqFiltering\obj\Debug\LinqFiltering.csproj.AssemblyReference.cache
+C:\Wipro_harsh\LinqFiltering\obj\Debug\LinqFiltering.csproj.CoreCompileInputs.cache
+C:\Wipro_harsh\LinqFiltering\obj\Debug\LinqFiltering.exe
+C:\Wipro_harsh\LinqFiltering\obj\Debug\LinqFiltering.pdb

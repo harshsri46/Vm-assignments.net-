@@ -1,0 +1,7 @@
+C:\Wipro_harsh\SelectionSort\bin\Debug\SelectionSort.exe.config
+C:\Wipro_harsh\SelectionSort\bin\Debug\SelectionSort.exe
+C:\Wipro_harsh\SelectionSort\bin\Debug\SelectionSort.pdb
+C:\Wipro_harsh\SelectionSort\obj\Debug\SelectionSort.csproj.AssemblyReference.cache
+C:\Wipro_harsh\SelectionSort\obj\Debug\SelectionSort.csproj.CoreCompileInputs.cache
+C:\Wipro_harsh\SelectionSort\obj\Debug\SelectionSort.exe
+C:\Wipro_harsh\SelectionSort\obj\Debug\SelectionSort.pdb

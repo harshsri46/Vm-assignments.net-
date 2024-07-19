@@ -1,0 +1,7 @@
+C:\Wipro_harsh\StackException\bin\Debug\StackException.exe.config
+C:\Wipro_harsh\StackException\bin\Debug\StackException.exe
+C:\Wipro_harsh\StackException\bin\Debug\StackException.pdb
+C:\Wipro_harsh\StackException\obj\Debug\StackException.csproj.AssemblyReference.cache
+C:\Wipro_harsh\StackException\obj\Debug\StackException.csproj.CoreCompileInputs.cache
+C:\Wipro_harsh\StackException\obj\Debug\StackException.exe
+C:\Wipro_harsh\StackException\obj\Debug\StackException.pdb

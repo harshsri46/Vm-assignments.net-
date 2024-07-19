@@ -1,0 +1,6 @@
+C:\Wipro_harsh\ClassLibraryNunit\bin\Debug\ClassLibraryNunit.dll
+C:\Wipro_harsh\ClassLibraryNunit\bin\Debug\ClassLibraryNunit.pdb
+C:\Wipro_harsh\ClassLibraryNunit\obj\Debug\ClassLibraryNunit.csproj.AssemblyReference.cache
+C:\Wipro_harsh\ClassLibraryNunit\obj\Debug\ClassLibraryNunit.csproj.CoreCompileInputs.cache
+C:\Wipro_harsh\ClassLibraryNunit\obj\Debug\ClassLibraryNunit.dll
+C:\Wipro_harsh\ClassLibraryNunit\obj\Debug\ClassLibraryNunit.pdb

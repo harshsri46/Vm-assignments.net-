@@ -1,0 +1,17 @@
+C:\Wipro_harsh\TestArithmetic\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Wipro_harsh\TestArithmetic\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Wipro_harsh\TestArithmetic\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Wipro_harsh\TestArithmetic\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Wipro_harsh\TestArithmetic\bin\Debug\TestArithmetic.dll
+C:\Wipro_harsh\TestArithmetic\bin\Debug\TestArithmetic.pdb
+C:\Wipro_harsh\TestArithmetic\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Wipro_harsh\TestArithmetic\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Wipro_harsh\TestArithmetic\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Wipro_harsh\TestArithmetic\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Wipro_harsh\TestArithmetic\obj\Debug\TestArithmetic.csproj.AssemblyReference.cache
+C:\Wipro_harsh\TestArithmetic\obj\Debug\TestArithmetic.csproj.CoreCompileInputs.cache
+C:\Wipro_harsh\TestArithmetic\obj\Debug\TestArit.2A583210.Up2Date
+C:\Wipro_harsh\TestArithmetic\obj\Debug\TestArithmetic.dll
+C:\Wipro_harsh\TestArithmetic\obj\Debug\TestArithmetic.pdb
+C:\Wipro_harsh\TestArithmetic\bin\Debug\ClassLibrary.dll
+C:\Wipro_harsh\TestArithmetic\bin\Debug\ClassLibrary.pdb

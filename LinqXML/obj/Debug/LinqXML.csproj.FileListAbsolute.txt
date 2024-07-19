@@ -1,0 +1,7 @@
+C:\Wipro_harsh\LinqXML\bin\Debug\LinqXML.exe.config
+C:\Wipro_harsh\LinqXML\bin\Debug\LinqXML.exe
+C:\Wipro_harsh\LinqXML\bin\Debug\LinqXML.pdb
+C:\Wipro_harsh\LinqXML\obj\Debug\LinqXML.csproj.AssemblyReference.cache
+C:\Wipro_harsh\LinqXML\obj\Debug\LinqXML.csproj.CoreCompileInputs.cache
+C:\Wipro_harsh\LinqXML\obj\Debug\LinqXML.exe
+C:\Wipro_harsh\LinqXML\obj\Debug\LinqXML.pdb

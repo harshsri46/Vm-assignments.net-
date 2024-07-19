@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\stackpush\bin\Debug\stackpush.exe.config
+C:\Users\Admin\source\repos\stackpush\bin\Debug\stackpush.exe
+C:\Users\Admin\source\repos\stackpush\bin\Debug\stackpush.pdb
+C:\Users\Admin\source\repos\stackpush\obj\Debug\stackpush.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\stackpush\obj\Debug\stackpush.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\stackpush\obj\Debug\stackpush.exe
+C:\Users\Admin\source\repos\stackpush\obj\Debug\stackpush.pdb
+C:\Wipro_harsh\c-code-files\stackpush\bin\Debug\stackpush.exe.config
+C:\Wipro_harsh\c-code-files\stackpush\bin\Debug\stackpush.exe
+C:\Wipro_harsh\c-code-files\stackpush\bin\Debug\stackpush.pdb
+C:\Wipro_harsh\c-code-files\stackpush\obj\Debug\stackpush.csproj.AssemblyReference.cache
+C:\Wipro_harsh\c-code-files\stackpush\obj\Debug\stackpush.csproj.CoreCompileInputs.cache
+C:\Wipro_harsh\c-code-files\stackpush\obj\Debug\stackpush.exe
+C:\Wipro_harsh\c-code-files\stackpush\obj\Debug\stackpush.pdb

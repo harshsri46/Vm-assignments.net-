@@ -1,0 +1,7 @@
+C:\Wipro_harsh\MulticastDelegate\bin\Debug\MulticastDelegate.exe.config
+C:\Wipro_harsh\MulticastDelegate\bin\Debug\MulticastDelegate.exe
+C:\Wipro_harsh\MulticastDelegate\bin\Debug\MulticastDelegate.pdb
+C:\Wipro_harsh\MulticastDelegate\obj\Debug\MulticastDelegate.csproj.AssemblyReference.cache
+C:\Wipro_harsh\MulticastDelegate\obj\Debug\MulticastDelegate.csproj.CoreCompileInputs.cache
+C:\Wipro_harsh\MulticastDelegate\obj\Debug\MulticastDelegate.exe
+C:\Wipro_harsh\MulticastDelegate\obj\Debug\MulticastDelegate.pdb

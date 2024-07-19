@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\methodArray\obj\Debug\methodArray.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\methodArray\obj\Debug\methodArray.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\methodArray\bin\Debug\methodArray.exe.config
+C:\Users\Admin\source\repos\methodArray\bin\Debug\methodArray.exe
+C:\Users\Admin\source\repos\methodArray\bin\Debug\methodArray.pdb
+C:\Users\Admin\source\repos\methodArray\obj\Debug\methodArray.exe
+C:\Users\Admin\source\repos\methodArray\obj\Debug\methodArray.pdb
+C:\Wipro_harsh\c-code-files\methodArray\bin\Debug\methodArray.exe.config
+C:\Wipro_harsh\c-code-files\methodArray\bin\Debug\methodArray.exe
+C:\Wipro_harsh\c-code-files\methodArray\bin\Debug\methodArray.pdb
+C:\Wipro_harsh\c-code-files\methodArray\obj\Debug\methodArray.csproj.AssemblyReference.cache
+C:\Wipro_harsh\c-code-files\methodArray\obj\Debug\methodArray.csproj.CoreCompileInputs.cache
+C:\Wipro_harsh\c-code-files\methodArray\obj\Debug\methodArray.exe
+C:\Wipro_harsh\c-code-files\methodArray\obj\Debug\methodArray.pdb

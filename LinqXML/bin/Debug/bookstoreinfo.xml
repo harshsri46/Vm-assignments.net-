@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<bookstore>
+  <book>
+    <title>commerce</title>
+    <author>abc</author>
+    <price>399</price>
+  </book>
+  <book>
+    <title>science</title>
+    <author>xyz</author>
+    <price>349</price>
+  </book>
+  <books>
+    <title>psycologoy</title>
+    <author>pqr</author>
+    <price>299</price>
+  </books>
+</bookstore>

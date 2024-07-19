@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Wipro_harsh\\EventsProcess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FED623A-6E07-4B46-B299-34976F6872C7}|EventsProcess.csproj|c:\\wipro_harsh\\eventsprocess\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FED623A-6E07-4B46-B299-34976F6872C7}|EventsProcess.csproj|solutionrelative:account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FED623A-6E07-4B46-B299-34976F6872C7}|EventsProcess.csproj|c:\\wipro_harsh\\eventsprocess\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FED623A-6E07-4B46-B299-34976F6872C7}|EventsProcess.csproj|solutionrelative:subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FED623A-6E07-4B46-B299-34976F6872C7}|EventsProcess.csproj|c:\\wipro_harsh\\eventsprocess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FED623A-6E07-4B46-B299-34976F6872C7}|EventsProcess.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Subscriber.cs",
+              "DocumentMoniker": "C:\\Wipro_harsh\\EventsProcess\\Subscriber.cs",
+              "RelativeDocumentMoniker": "Subscriber.cs",
+              "ToolTip": "C:\\Wipro_harsh\\EventsProcess\\Subscriber.cs",
+              "RelativeToolTip": "Subscriber.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T03:36:10.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Wipro_harsh\\EventsProcess\\Account.cs",
+              "RelativeDocumentMoniker": "Account.cs",
+              "ToolTip": "C:\\Wipro_harsh\\EventsProcess\\Account.cs",
+              "RelativeToolTip": "Account.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwCsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T03:23:15.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro_harsh\\EventsProcess\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Wipro_harsh\\EventsProcess\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T03:20:32.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BlogInfoModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Blog">
+    <Key>
+      <PropertyRef Name="Blog_Id" />
+    </Key>
+    <Property Name="Blog_Id" Type="int" Nullable="false" />
+    <Property Name="Blog_Name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Blog_Type" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Blog_Header" Type="varchar" MaxLength="50" />
+    <Property Name="Blog_Description" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="Post">
+    <Key>
+      <PropertyRef Name="Post_Id" />
+    </Key>
+    <Property Name="Post_Id" Type="int" Nullable="false" />
+    <Property Name="Post_Description" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="Creation_Date" Type="datetime" />
+    <Property Name="Blog_Id" Type="int" />
+  </EntityType>
+  <Association Name="FK__Post__Blog_Id__5070F446">
+    <End Role="Blog" Type="Self.Blog" Multiplicity="0..1" />
+    <End Role="Post" Type="Self.Post" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Blog">
+        <PropertyRef Name="Blog_Id" />
+      </Principal>
+      <Dependent Role="Post">
+        <PropertyRef Name="Blog_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="BlogInfoModelStoreContainer">
+    <EntitySet Name="Blog" EntityType="Self.Blog" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Post" EntityType="Self.Post" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Post__Blog_Id__5070F446" Association="Self.FK__Post__Blog_Id__5070F446">
+      <End Role="Blog" EntitySet="Blog" />
+      <End Role="Post" EntitySet="Post" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

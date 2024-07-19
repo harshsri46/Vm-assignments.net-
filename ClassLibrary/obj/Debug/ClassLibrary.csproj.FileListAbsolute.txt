@@ -1,0 +1,6 @@
+C:\Wipro_harsh\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Wipro_harsh\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Wipro_harsh\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Wipro_harsh\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Wipro_harsh\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Wipro_harsh\ClassLibrary\obj\Debug\ClassLibrary.pdb

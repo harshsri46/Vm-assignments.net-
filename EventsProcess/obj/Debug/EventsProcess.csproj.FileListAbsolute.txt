@@ -1,0 +1,7 @@
+C:\Wipro_harsh\EventsProcess\bin\Debug\EventsProcess.exe.config
+C:\Wipro_harsh\EventsProcess\bin\Debug\EventsProcess.exe
+C:\Wipro_harsh\EventsProcess\bin\Debug\EventsProcess.pdb
+C:\Wipro_harsh\EventsProcess\obj\Debug\EventsProcess.csproj.AssemblyReference.cache
+C:\Wipro_harsh\EventsProcess\obj\Debug\EventsProcess.csproj.CoreCompileInputs.cache
+C:\Wipro_harsh\EventsProcess\obj\Debug\EventsProcess.exe
+C:\Wipro_harsh\EventsProcess\obj\Debug\EventsProcess.pdb

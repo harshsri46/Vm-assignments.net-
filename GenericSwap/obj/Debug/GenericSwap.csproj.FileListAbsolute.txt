@@ -1,0 +1,7 @@
+C:\Wipro_harsh\GenericSwap\bin\Debug\GenericSwap.exe.config
+C:\Wipro_harsh\GenericSwap\bin\Debug\GenericSwap.exe
+C:\Wipro_harsh\GenericSwap\bin\Debug\GenericSwap.pdb
+C:\Wipro_harsh\GenericSwap\obj\Debug\GenericSwap.csproj.AssemblyReference.cache
+C:\Wipro_harsh\GenericSwap\obj\Debug\GenericSwap.csproj.CoreCompileInputs.cache
+C:\Wipro_harsh\GenericSwap\obj\Debug\GenericSwap.exe
+C:\Wipro_harsh\GenericSwap\obj\Debug\GenericSwap.pdb

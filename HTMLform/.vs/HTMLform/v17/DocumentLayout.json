@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Wipro_harsh\\HTMLform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF333AD-4844-4D6C-8A40-864ECE0FA58F}|Solution Items{BAF333AD-4844-4D6C-8A40-864ECE0FA58F}|C:\\Wipro_harsh\\HTMLform\\form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAF333AD-4844-4D6C-8A40-864ECE0FA58F}|Solution Items{BAF333AD-4844-4D6C-8A40-864ECE0FA58F}|solutionrelative:form.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49725691-AF57-4B6C-B321-4CD8F712BD67}|HTMLform.csproj|c:\\wipro_harsh\\htmlform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49725691-AF57-4B6C-B321-4CD8F712BD67}|HTMLform.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "form.html",
+              "DocumentMoniker": "C:\\Wipro_harsh\\HTMLform\\form.html",
+              "RelativeDocumentMoniker": "form.html",
+              "ToolTip": "C:\\Wipro_harsh\\HTMLform\\form.html",
+              "RelativeToolTip": "form.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-28T03:40:54.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro_harsh\\HTMLform\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Wipro_harsh\\HTMLform\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T03:39:15.121Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

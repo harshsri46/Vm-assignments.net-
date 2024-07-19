@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Wipro_harsh\\Generrics_Interface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F4D500-2F5F-4EB6-B79B-47C86F5B177E}|Generrics_Interface.csproj|c:\\wipro_harsh\\generrics_interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F4D500-2F5F-4EB6-B79B-47C86F5B177E}|Generrics_Interface.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F4D500-2F5F-4EB6-B79B-47C86F5B177E}|Generrics_Interface.csproj|C:\\Wipro_harsh\\Generrics_Interface\\isimplestack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F4D500-2F5F-4EB6-B79B-47C86F5B177E}|Generrics_Interface.csproj|solutionrelative:isimplestack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F4D500-2F5F-4EB6-B79B-47C86F5B177E}|Generrics_Interface.csproj|C:\\Wipro_harsh\\Generrics_Interface\\simplestack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F4D500-2F5F-4EB6-B79B-47C86F5B177E}|Generrics_Interface.csproj|solutionrelative:simplestack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimpleStack.cs",
+              "DocumentMoniker": "C:\\Wipro_harsh\\Generrics_Interface\\SimpleStack.cs",
+              "RelativeDocumentMoniker": "SimpleStack.cs",
+              "ToolTip": "C:\\Wipro_harsh\\Generrics_Interface\\SimpleStack.cs",
+              "RelativeToolTip": "SimpleStack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:43:39.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISimpleStack.cs",
+              "DocumentMoniker": "C:\\Wipro_harsh\\Generrics_Interface\\ISimpleStack.cs",
+              "RelativeDocumentMoniker": "ISimpleStack.cs",
+              "ToolTip": "C:\\Wipro_harsh\\Generrics_Interface\\ISimpleStack.cs",
+              "RelativeToolTip": "ISimpleStack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:40:51.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Wipro_harsh\\Generrics_Interface\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Wipro_harsh\\Generrics_Interface\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:40:41.641Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
